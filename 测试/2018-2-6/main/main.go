@@ -2,18 +2,26 @@ package main
 
 import (
 	"fmt"
-	"os"
 )
 
 func main() {
 	// switchThrough()
-	ss, err := Season(3)
-	if err != nil {
-		fmt.Println(err)
-		return
-	}
-	fmt.Print(ss)
-	os.Open("ss")
+
+	// ss, err := Season(3)
+	// if err != nil {
+	// 	fmt.Println(err)
+	// 	return
+	// }
+	// fmt.Print(ss)
+
+	// for1()
+	// for2()
+
+	// for3()
+	// for4()
+
+	// for5()
+	rec()
 }
 
 func switchThrough() {
