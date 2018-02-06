@@ -1,0 +1,3 @@
+package jii
+
+func Jii() {}
