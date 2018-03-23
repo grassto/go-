@@ -22,8 +22,9 @@ func main() {
 	// a()
 	// defer1()
 	// defer2("dd", 3)
+	defer4()
 
-	getFibonacci(6)
+	// getFibonacci(6)
 }
 
 func problem5_3() {
